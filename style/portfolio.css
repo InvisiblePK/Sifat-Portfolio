@@ -173,6 +173,7 @@ main {
     margin-top: 30px;
 }
 
+
 .a-summary {
     margin-top: 130px;
 }
@@ -181,4 +182,96 @@ main {
 .summary-head-title {
     text-align: center;
     font-size: 35px;
+}
+
+.resume-container {
+    margin-top: 113px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-title {
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.resume-item .title {
+    color: #474747;
+    font-size: 25px;
+
+}
+
+.resume-item .sub-title {
+    color: #757575;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.resume-item .description {
+    color: #757575;
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+hr {
+    width: 95%;
+    margin-bottom: 30px;
+}
+
+.summary-download-cv {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.contact {
+    display: flex;
+    margin-top: 113px;
+    justify-content: space-between;
+}
+
+.social-contact {
+    margin-top: 30px;
+}
+
+.social-contact a {
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cnt-section-title {
+    font-size: 35px;
+    color: #181818;
+    margin-bottom: 28px;
+}
+
+.contact-form input,
+textarea {
+    display: block;
+    margin-bottom: 24px;
+    border: none;
+    padding: 18px 30px;
+    width: 100%;
+}
+
+input[type="submit"] {
+    background-color: #FD6E0A;
+    color: white;
+    font-weight: bold;
+}
+
+.contact-form input::placeholder {
+    color: #757575;
+
+}
+
+.connect-description {
+    margin-top: 20px;
+    color: #474747;
+    font-size: 16px;
 }

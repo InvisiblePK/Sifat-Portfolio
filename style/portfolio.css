@@ -231,6 +231,12 @@ hr {
     justify-content: space-between;
 }
 
+footer {
+    background: #FFF8F3;
+    padding: 1px 230px;
+    margin-top: 130px;
+}
+
 .contact div {
     width: 47%;
 }
@@ -278,3 +284,4 @@ input[type="submit"] {
     color: #474747;
     font-size: 16px;
 }
+

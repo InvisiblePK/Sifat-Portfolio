@@ -24,9 +24,8 @@ header {
 header nav {
     display: flex;
     justify-content: space-between;
-    margin: 0 200px;
     align-items: center;
-    /* margin-top: 25px; */
+    padding: 40px 200px;
 }
 
 nav ul {
@@ -230,6 +229,10 @@ hr {
     display: flex;
     margin-top: 113px;
     justify-content: space-between;
+}
+
+.contact div {
+    width: 47%;
 }
 
 .social-contact {
